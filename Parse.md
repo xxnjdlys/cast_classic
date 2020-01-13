@@ -2,6 +2,18 @@
 
 ##### overseas
 
+- youtube
+```
+https://www.youtube.com/get_video_info?html5=1&video_id=mxbmLJ5Gud8
+
+https://www.youtube.com/get_video_info?html5=1&video_id={$video_id}
+
+```
+获得querystring 的格式的返回， 解析出 url_encoded_fmt_stream_map 中的 url 列表
+
+
+- clipconverter.cc
+
 ```curl
   curl --request POST \
   --url https://www.clipconverter.cc/check.php \
