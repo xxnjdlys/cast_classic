@@ -1,5 +1,18 @@
 # cast_classic
 
+##### overseas
+
+```curl
+  curl --request POST \
+  --url https://www.clipconverter.cc/check.php \
+  --header 'accept: application/json, text/javascript, */*' \
+  --header 'content-type: application/x-www-form-urlencoded' \
+  --data mediaurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmxbmLJ5Gud8
+```
+
+
+##### inland
+
 - http://kiznara.com/index.php/vod_play_id_3743_sid_1_nid_1.html
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gapcgy4i0xj30lz035aa0.jpg)
