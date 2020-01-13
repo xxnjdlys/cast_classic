@@ -315,3 +315,43 @@ https://www.youtube.com/get_video_info?html5=1&video_id={$video_id}
 }
 
 ```
+
+- supported website :
+
+```
+[
+    '######################################',
+    '121971.com', // 二猫
+    'mahua110.com', //麻花
+    '51uuu.com',  // 麻花
+    'qindin.com',  // 青苹果
+    'kankanwu.com',
+    'm.liaocao.com', //潦草影视
+    'gomftv.net', //魔方影院
+    'dyhz.cc',   //电影盒子
+    '2myy.com',  //二猫影院
+    'cejejv.top', //西瓜影院
+    'ixigua123.com', //西瓜电影
+    'leisutv.com/', //高清在线影院
+    '6080.com',  //奇领
+    'piaohuatv.org',  //飘花影视
+    'cmdy5.com',  //草民网
+    'ppys5.com',  // 泡泡影视
+    'yse1234.com',  // yse影视
+    'www.jfxyeva.com',  // 飘零影院
+    'dy.luc9.com',  // 星辰影院
+    'y8090.com',  // 夜播影院
+    'dy23.xyz',  // 夜播影院
+    'heiying.cc',  // 黑鹰影视
+    'bt4kyy.com',  // BT4k影院
+    'kmysw.top',  // 可米影视
+    '######################################',
+    'kk2w.cc',  // 推荐影视
+    'meijubie.com', //美剧鳖
+    '87vcd.com', //87影院
+    'shayu55.com', //鲨鱼影视
+    '######################################',
+    'haiwai.tv',  // 海外影视
+];
+```
+
