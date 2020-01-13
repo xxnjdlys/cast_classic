@@ -8,6 +8,27 @@
   --header 'accept: application/json, text/javascript, */*' \
   --header 'content-type: application/x-www-form-urlencoded' \
   --data mediaurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmxbmLJ5Gud8
+  
+  
+  
+  curl --request POST \
+  --url https://www.clipconverter.cc/check.php \
+  --header 'accept: application/json, text/javascript, */*' \
+  --header 'accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,ja;q=0.6,ar;q=0.5' \
+  --header 'cache-control: no-cache' \
+  --header 'connection: keep-alive' \
+  --header 'content-type: application/x-www-form-urlencoded' \
+  --header 'dnt: 1' \
+  --header 'origin: https://www.clipconverter.cc' \
+  --header 'pragma: no-cache' \
+  --header 'referer: https://www.clipconverter.cc/' \
+  --header 'sec-fetch-dest: empty' \
+  --header 'sec-fetch-mode: cors' \
+  --header 'sec-fetch-site: same-origin' \
+  --header 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4000.3 Mobile Safari/537.36' \
+  --header 'x-requested-with: XMLHttpRequest' \
+  --data mediaurl=https://www.youtube.com/watch?v=mxbmLJ5Gud8
+  
 ```
 
 
