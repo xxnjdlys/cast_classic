@@ -320,6 +320,12 @@ https://www.youtube.com/get_video_info?html5=1&video_id={$video_id}
 
 ```
 [
+    'kk2w.cc',  // 推荐影视
+    'meijubie.com', //美剧鳖
+    '87vcd.com', //87影院
+    'm.meijutt.tv', //美剧天堂
+    'chahao.la', // 查好啦
+    'shayu55.com', //鲨鱼影视
     '######################################',
     '121971.com', // 二猫
     'mahua110.com', //麻花
@@ -344,12 +350,17 @@ https://www.youtube.com/get_video_info?html5=1&video_id={$video_id}
     'dy23.xyz',  // 夜播影院
     'heiying.cc',  // 黑鹰影视
     'bt4kyy.com',  // BT4k影院
-    'kmysw.top',  // 可米影视
-    '######################################',
-    'kk2w.cc',  // 推荐影视
-    'meijubie.com', //美剧鳖
-    '87vcd.com', //87影院
-    'shayu55.com', //鲨鱼影视
+    'ybtzjt.com',  // 琪琪电影网
+    'jxrom.com',  // 天天影视
+    'shblvalve.com',  // 电影网
+    'onehaocai.com',  // 电影网
+    'xkdy666.com', // 星空电影
+    '15819.cc', // 88影视网
+    'yyetss.com', // 人人影视
+    'm.binbin95.com', // 彬彬影院
+  	'm.36sl.com', // 360影视
+	  'leisutv.com', //
+	  'kmysw.top',  // 可米影视
     '######################################',
     'haiwai.tv',  // 海外影视
 ];
