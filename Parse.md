@@ -358,9 +358,9 @@ https://www.youtube.com/get_video_info?html5=1&video_id={$video_id}
     '15819.cc', // 88影视网
     'yyetss.com', // 人人影视
     'm.binbin95.com', // 彬彬影院
-  	'm.36sl.com', // 360影视
-	  'leisutv.com', //
-	  'kmysw.top',  // 可米影视
+    'm.36sl.com', // 360影视
+    'leisutv.com', //
+    'kmysw.top',  // 可米影视
     '######################################',
     'haiwai.tv',  // 海外影视
 ];
